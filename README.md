@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khushi Punia</h1>
+<h1 align="center">Hi <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40" height="40">, I'm Khushi Punia</h1>
 <h3 align="center">I am a student passionate about Machine Learning and Artificial Intelligence</h3>
 
 - 🔭 I’m currently working on **Handwritten Digit Recognition project**
